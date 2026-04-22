@@ -15,7 +15,7 @@ public class PoemResource {
     @Inject
     PoemGeneratorService poemGeneratorService;
 
-    @POST
+    @GET
     @Path("/generate")
     @Transactional
     public Response generatePoem(@QueryParam("topic") String topic) {
