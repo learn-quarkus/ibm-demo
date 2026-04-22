@@ -63,4 +63,4 @@ Runs on: http://localhost:8082
 - Projects with databases automatically create schemas on startup
 
 
-Disclaimer: the README is writted with Claude. A lot of Quarkus code was written with Bob Shell
+Disclaimer: the README is written with Claude. A lot of Quarkus code was written with Bob Shell
